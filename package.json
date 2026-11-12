@@ -1,0 +1,13 @@
+{
+  "name": "cosechacuenta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cuaderno digital del pequeño agricultor: parcelas, campañas, costos, jornales, cosecha y costo por quintal.",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "test": "jest --passWithNoTests",
+    "typecheck": "tsc --noEmit"
+  }
+}
