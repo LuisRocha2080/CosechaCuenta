@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "CosechaCuenta",
+    "slug": "cosechacuenta",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "cosechacuenta",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "android": {
+      "package": "com.luisrocha2080.cosechacuenta"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
